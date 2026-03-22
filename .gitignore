@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Visual Studio / .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Rider / VSCode
+.vscode/
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Build 결과물
+*.exe
+*.dll
+*.pdb
+
+# 환경 설정
+.env
+
+# 기타
+Thumbs.db
